@@ -1,0 +1,6 @@
+aiohttp
+cloudscraper
+fake-useragent
+colorama
+random
+time
